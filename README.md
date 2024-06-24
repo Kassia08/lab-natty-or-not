@@ -1,51 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+<img alt="Galeria" src="./images/20170411_161507.jpg" width="100%">
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
+<h1 align="center">Natural ou Fake Natty? Como Vencer na Era das IAs Generativas</h1>
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+<p align="center">
+Olá pessoal, me chamo Kássia Moura! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO  é baseado no mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!<br/>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+**Explorando as IAs Generativas**: Utilizei essas tecnologias para criar um vídeo fazendo uma breve descrição minha. Criei um Avatar meu no D-iD utilizando uma foto que já tinha e também criei um áudio a partir de um texto que digitei no ElevenLabs. 
 
-### Objetivos
+## 💻 Projeto
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Vídeo - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas<br/><br/>
 
-### Template
+## 🚀 Tecnologias utilizadas no projeto 
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+- [ChatGPT](https://chat.openai.com/) </br>
+- [ElevenLabs](https://beta.elevenlabs.io/) </br>
+- [D-iD](https://www.d-id.com/) </br>
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## ✨ Como foi feito ?
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Roteiro criado por mim
+- Roteiro corrigido via chatgpt
+- Audio gerado pela ElevenLabs
+- Avatar e vídeo criados com o D-iD, a partir de uma foto minha e do áudio produzido no ElevenLabs
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+## 🔖 Layout
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Você pode visualizar a descrição do desafio deste projeto através [DESSE LINK](https://github.com/digitalinnovationone/lab-natty-or-not). 
+<br/><br/>
 
-## Links Interessantes
+## Expert
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+<p><a href="https://www.linkedin.com/in/kassia-moura-10775aa8/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/kassia.amour/">Instagram</a>&nbsp;|&nbsp;</p>
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+⌨️ com 💜 por [Kássia Almeida Moura](https://github.com/Kassia08)
+
+<br/><br/>
+
+## Bootcamp Santander 2024 - Fundamentos de IA para Devs
